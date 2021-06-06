@@ -5,7 +5,7 @@ const productosSchema = mongoose.Schema({
             type: String,
             require:true
         },
-        descripcion:{
+        categoria:{
             type: String,
             require:true
         },
